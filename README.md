@@ -11,3 +11,5 @@ Feature Engineering:
 
 Modelling:
 * Regularization (L1, L2, Elasticnet)
+* Evaluate a classification model (Accuracy, Precision, Recall, ROC Curve etc.)
+* Evaluate a regression/forecasting model (MSE, R2, MAPE etc.)
