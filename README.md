@@ -9,6 +9,7 @@ Statistics:
 * Likelihood Ratio Test
 
 Machine Learning:
+* Discriminant classifiers (Least Squares, Fisher's Linear, Gaussian Quadratic,
 * Decision Trees, Forests
 * Gradient Boosting
 
